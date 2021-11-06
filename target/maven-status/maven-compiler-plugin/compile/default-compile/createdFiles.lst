@@ -1,0 +1,12 @@
+exception\FieldsNotFilledException.class
+database\Database.class
+model\Session.class
+ui\App.class
+ui\Table.class
+model\Movie.class
+exception\BadCredentialsException.class
+ui\ManageShowings.class
+ui\ManageMovies.class
+ui\Navigation.class
+ui\SellingTickets.class
+model\User.class

@@ -1,0 +1,62 @@
+
+#tableViewComponentGrid {
+    -fx-background-color: #00008b;
+    -fx-text-background-color: white;
+}
+
+#nrOfSeatsComboBox {
+    -fx-text-background-color: black;
+}
+
+#showingComponentGrid {
+    -fx-background-color: #00008b;
+    -fx-text-background-color: white;
+}
+
+#movieTitleCombo {
+    -fx-text-background-color: black;
+}
+
+#roomCombo {
+    -fx-text-background-color: black;
+}
+
+#startDatePicker {
+    -fx-text-background-color: black;
+}
+
+#screenTitle {
+    -fx-text-fill: #00008b;
+}
+
+#titleRoom1 {
+    -fx-text-fill: #00008b;
+}
+
+#titleRoom2 {
+    -fx-text-fill: #00008b;
+}
+
+#listOfMoviesTitle {
+    -fx-text-fill: #00008b;
+}
+
+#movieTitleLabel {
+    -fx-text-fill: white;
+}
+
+#movieDurationLabel {
+    -fx-text-fill: white;
+}
+
+#moviePriceLabel {
+    -fx-text-fill: white;
+}
+
+#manageMoviesGrid {
+    -fx-background-color: #00008b;
+}
+
+
+
+
